@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body,
+#app {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(203, 216, 226);
+}
+
+#app {
+  background: url(http://www.paradx.cn/img/night.jpg);
+  background-size: 100% 100%;
+}
